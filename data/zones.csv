@@ -1,1 +1,21 @@
-x
+zone_id,zone_name,distance_from_hub_km,population_density,obstacle_density
+1,Gachibowli,10.6,5,4
+2,kondapur,23.9,9,8
+3,  Madhapur  ,18.8,4,6
+4,Hitech City,15.8,10,2
+5,Jubilee Hills,5.6,6,8
+6,banjara hills,5.6,6,3
+7,Secunderabad,3.3,10,5
+8,Uppal,21.9,9,2
+9,LB Nagar,15.8,8,5
+10,Dilsukhnagar,18.3,8,7
+11,Kukatpally,2.5,9,3
+12,Miyapur,24.3,8,3
+13,Ameerpet,21.1,5,2
+14,Begumpet,6.9,6,3
+15,Malakpet,6.2,9,6
+16,Charminar,6.2,6,3
+17,Attapur,9.0,10,5
+18,manikonda,14.1,3,5
+19,Shamshabad,11.9,5,8
+20,Nacharam,8.7,7,5
